@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I've watched my favorite movie so many times that I can recite the script as they play out!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

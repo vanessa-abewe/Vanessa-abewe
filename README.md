@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessa-bitega&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-bitega" /> </p>
 
-- 🌱 I’m currently learning **mongodb,cybersecurity**
+- 🌱 I’m currently learning **mongodb,Ant Design**
 
 - 👯 I’m looking to collaborate on **open source projects**
 

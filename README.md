@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm vanessa</h1>
 <h3 align="center">A passionate Software developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessa-bitega&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-bitega" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessa-abewe&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-abewe" /> </p>
 
 - 👯 I like to collaborate on **open source projects**
 
 - 💬 Ask me about **nextjs,reactjs,expressjs**
 
 - 📫 How to reach me **vanessabewe@gmail.com**
+- 📫 Portfolio **https://vanessa-abewe.vercel.app/**
 
 - ⚡ Fun fact **I've watched my favorite movie so many times that I can recite the script as they play out!**
 
